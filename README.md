@@ -2,7 +2,7 @@
 - 👀 Interested in Java and MERN Development
 - 🌱 Currently learning React and Java
 - 💞️ Looking to collaborate on projects related to my interests
-- 📫 How to reach me ... reach out to me on boyalkavish@gmail.com
+- 📫 You can reach out to me on - boyalkavish@gmail.com
 
 <!---
 universekavish/universekavish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
