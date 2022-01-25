@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kavish Boyal(@universekavish). I am a CSE undergrad in IIIT Kota.
+- 👋 Hi, I’m Kavish Boyal(@universekavish). 
 - 👀 Interested in Java and MERN Development
 - 🌱 Currently learning Java, JavaScript and React
 - 💞️ Looking to collaborate on projects related to my interests
