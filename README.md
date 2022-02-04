@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kavish Boyal(@universekavish). 
 - 👀 Interested in Java and MERN Development
-- 🌱 Currently learning Java, JavaScript and React
+- 🌱 Currently learning Java, JavaScript, Python
 - 💞️ Looking to collaborate on projects related to my interests
 - 📫 You can reach out to me on - boyalkavish@gmail.com
 
