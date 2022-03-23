@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kavish Boyal(@universekavish). 
+- 👋 Hey, I’m Kavish Boyal(@universekavish). 
 - 👀 Interested in Java and MERN Development
 - 🌱 Currently learning Java, JavaScript, Python
 - 💞️ Looking to collaborate on projects related to my interests
