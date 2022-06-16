@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="130"/>
 </div>
 
 - 👋 Hey, I’m Kavish Boyal(@universekavish). 
