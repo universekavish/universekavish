@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="130"/>
 </div>
 
+---
+
+### :man_technologist: About Me :
+
 - 👋 Hey, I’m Kavish Boyal(@universekavish). 
 - 👀 Interested in Java and MERN Development
 - 🌱 Currently learning Java, JavaScript, Python
