@@ -5,9 +5,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+Hey!! This is Kavish, I am currently working as a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 👋 Hey, I’m Kavish Boyal(@universekavish). 
+//- 👋 Hey, I’m Kavish Boyal(@universekavish). 
 - 👀 Interested in Java and MERN Development
 - 🌱 Currently learning Java, JavaScript, Python
 - 💞️ Looking to collaborate on projects related to my interests
