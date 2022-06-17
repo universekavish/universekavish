@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="90"/>
+  <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="80"/>
 </div>
 
 ---
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: My Teck stack :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="React" width="60" height="60"/>&nbsp;
