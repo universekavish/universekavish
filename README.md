@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 --->
 </div>
 
-<!---
+
 ---
 
 ### :fire: My Stats :
@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universekavish&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
---->
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   
@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/kavishboyal/">
-    <img align="left" alt="K B | Linkedin" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" />
+    <img align="left" alt="K B | Linkedin" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" />
   </a>
   <a href="https://twitter.com/kavish_boyal">
     <img align="left" alt="K B | Twitter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
