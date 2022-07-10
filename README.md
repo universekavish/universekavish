@@ -5,7 +5,7 @@
 ---
 
 ### :man_technologist: About Me :
-Hey!! This is Kavish, currently working as a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Hey!! This is Kavish, currently working as a Software Engineer.
 <!---
 //- 👋 Hey, I’m Kavish Boyal(@universekavish). 
 --->
