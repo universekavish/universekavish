@@ -11,7 +11,7 @@ Hey!! This is Kavish, currently working as a Software Engineer <img src="https:/
 --->
 - 🧑‍💻 Working as a Python Backend Developer.
 - 👀 Interested in Java and MERN Development
-- 🌱 Currently learning Java, JavaScript, Python
+- 🌱 Currently learning JavaScript and MERN Development
 - 💞️ Looking to collaborate on projects related to my interests
 - 📫 You can reach out to me on - boyalkavish@gmail.com
 
