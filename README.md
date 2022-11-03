@@ -48,14 +48,14 @@ You can click the Preview link to take a look at your changes.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=universekavish&theme=dark&background=000000)](https://git.io/streak-stats)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=universekavish.universekavish)
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universekavish&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=universekavish&theme=shades-of-black&show_icons=true)
 --->
 ---
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=universekavish.universekavish)
 
 ### Connect with me:
 
