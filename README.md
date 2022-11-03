@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ---
 
-### Connect with me:
+### Let's connect! Open for collaborations:
 
 <a href="https://www.linkedin.com/in/kavishboyal/">
     <img align="left" alt="K B | Linkedin" width="32px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />
