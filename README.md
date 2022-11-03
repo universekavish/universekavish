@@ -54,7 +54,9 @@ You can click the Preview link to take a look at your changes.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=universekavish&theme=shades-of-black&show_icons=true)
 --->
 ---
-  
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=universekavish.universekavish)
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/kavishboyal/">
