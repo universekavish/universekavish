@@ -9,7 +9,7 @@ Hey!! This is Kavish, currently working as a Software Engineer.
 <!---
 //- 👋 Hey, I’m Kavish Boyal(@universekavish). 
 --->
-- 🧑‍💻 Working as a Python Backend Developer.
+- 🧑‍💻 Working as a Software Engineer, Tech Stack - Python, MongoDB, Django, DjangoREST framework, React JS, MQTT.
 - 👀 Interested in Java and MERN Development
 - 🌱 Currently learning JavaScript and MERN Development
 - 💞️ Looking to collaborate on projects related to my interests
